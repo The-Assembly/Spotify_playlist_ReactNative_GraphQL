@@ -6,16 +6,16 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 ## Windows
 **1. Download Install Node.js** *(https://nodejs.org/en/)* **(LTS Version Recommended)** <br/>
 
-**2. Open Node.js command prompt and type**
+**2. Open Node.js Command Prompt and type**
 ```
  node -v
  npm –v
 ``` 
-**3. Install Expo Client** *(https://expo.io/)*
+**3. Install Expo Client using Node.js Command Prompt** *(https://expo.io/)*
 ```
   npm install -g expo-cli (or) sudo npm install expo-cli --global --unsafe-perm
 ```  
-**4. Install Apollo Boost, React Apollo & GraphQL**
+**4. Install Apollo Boost, React Apollo & GraphQL using Node.js Command Prompt**
 ```
   npm install --save apollo-boost react-apollo graphql-tag graphql
 ```
