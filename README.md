@@ -22,10 +22,8 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 
 
 ## Mac
-**1. Install Xcode from App Store or update to the latest version if already installed**
-```
-  https://itunes.apple.com/ae/app/xcode/id497799835?mt=12
-```
+**1. Install Xcode from App Store or update to the latest version if already installed** (https://itunes.apple.com/ae/app/xcode/id497799835?mt=12)
+
 **2. Open Terminal and Install Homebrew (https://brew.sh) using the following command**
 ```
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
