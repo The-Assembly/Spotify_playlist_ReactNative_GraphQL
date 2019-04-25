@@ -53,13 +53,7 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 ```
   npm install --save apollo-boost react-apollo graphql-tag graphql
 ```
-**8. Link for downloading fonts : **
 
-  gibson-regular : (https://github.com/jamiemaison/hosted/blob/master/gibson-regular.ttf?raw=1) <br/>
-   gibson-bold : (https://github.com/jamiemaison/hosted/blob/master/gibson-bold.ttf?raw=1)
- ``` 
-  Add the fonts to the /assets folder in your project
-```
 
 
 ## Expo Client Mobile Application
