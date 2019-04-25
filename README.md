@@ -79,8 +79,9 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
    }
  }
 ```
-**3. Install Apollo Boost, React Apollo & GraphQL using Node.js Command Prompt**
+**3. Open the folder & Install Apollo Boost, React Apollo & GraphQL using Node.js Command Prompt**
 ```
+  cd spotify-playlist
   npm install --save apollo-boost react-apollo graphql-tag graphql
 ```
 
