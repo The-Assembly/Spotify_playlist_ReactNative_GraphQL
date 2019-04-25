@@ -1,4 +1,4 @@
-# Spotify_playlist_ReactNative_GraphQL
+﻿# Spotify_playlist_ReactNative_GraphQL
 
 Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 
