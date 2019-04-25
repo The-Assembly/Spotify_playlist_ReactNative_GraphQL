@@ -75,7 +75,7 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
   npm install --save apollo-boost react-apollo graphql-tag graphql
 ```
 
-**4. Open the folder spotify-playlist using Finder(Mac) & Windows Explorer(Windows)** <br/>
+**4. Download the fonts from (https://github.com/mridulrb/Spotify-Playlist-ReactNative-GraphQL/blob/master/assets/gibson-bold.ttf?raw=1) & (https://github.com/mridulrb/Spotify-Playlist-ReactNative-GraphQL/blob/master/assets/gibson-regular.ttf?raw=1). Now, Open the folder spotify-playlist/assets using Finder(Mac) & Windows Explorer(Windows) and move the fonts in this folder** <br/>
 <br/>
 **5. Right-Click Open the file App.js using any Code Editor Installed and add the code from the file App.js in this Repository and save it** <br/>
 <br/>
