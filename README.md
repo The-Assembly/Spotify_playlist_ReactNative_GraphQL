@@ -75,16 +75,18 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
   npm install --save apollo-boost react-apollo graphql-tag graphql
 ```
 
-**4. Download the fonts from (https://github.com/mridulrb/Spotify-Playlist-ReactNative-GraphQL/blob/master/assets/gibson-bold.ttf?raw=1) & (https://github.com/mridulrb/Spotify-Playlist-ReactNative-GraphQL/blob/master/assets/gibson-regular.ttf?raw=1). Now, Open the folder spotify-playlist/assets using Finder(Mac) & Windows Explorer(Windows) and move the fonts in this folder** <br/>
+**4. Download the fonts from (https://github.com/mridulrb/Spotify-Playlist-ReactNative-GraphQL/blob/master/assets/gibson-bold.ttf?raw=1) & (https://github.com/mridulrb/Spotify-Playlist-ReactNative-GraphQL/blob/master/assets/gibson-regular.ttf?raw=1).**<br/>
 <br/>
-**5. Right-Click Open the file App.js using any Code Editor Installed and add the code from the file App.js in this Repository and save it** <br/>
+**5. Now, Open the folder spotify-playlist/assets using Finder(Mac) & Windows Explorer(Windows) and move the fonts in this folder** <br/>
 <br/>
-**6. Open https://pm5wl5l3r0.sse.codesandbox.io/ in browser or fork the repository from https://codesandbox.io/s/pm5wl5l3r0 and edit the GraphQL dataset with your preferences** <br/>
+**6. Right-Click Open the file App.js using any Code Editor Installed and add the code from the file App.js in this Repository and save it** <br/>
 <br/>
-**7. Go back to Terminal/Command Prompt and type*** <br/>
+**7. Open https://pm5wl5l3r0.sse.codesandbox.io/ in browser or fork the repository from https://codesandbox.io/s/pm5wl5l3r0 and edit the GraphQL dataset with your preferences** <br/>
+<br/>
+**8. Go back to Terminal/Command Prompt and type*** <br/>
 <br/>
 ```
   npm start
 ```
-**8. Scan the QR Code on iPhone using Camera App and Android using Expo App (Connect the Computer and Mobile on the same network)**
+**9. Scan the QR Code on iPhone using Camera App and Android using Expo App (Connect the Computer and Mobile on the same network)**
 
