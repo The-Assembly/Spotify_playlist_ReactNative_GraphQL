@@ -87,6 +87,4 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
   npm start
 ```
 **8. Scan the QR Code on iPhone using Camera App and Android using Expo App (Connect the Computer and Mobile on the same network)**
-**
-
 
