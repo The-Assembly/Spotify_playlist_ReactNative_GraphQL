@@ -4,7 +4,7 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 
 
 ## Windows
-**1. Download Install Node.js & Git** *(https://nodejs.org/en/) (https://gitforwindows.org/)* **(LTS Version Recommended)** <br/>
+**1. Download Install Node.js** *(https://nodejs.org/en/)* **(LTS Version Recommended)** <br/>
 
 **2. Open Node.js Command Prompt and type**
 ```
@@ -28,9 +28,8 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 ```
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-**3. Install Git & Watchman**
+**3. Install Watchman**
 ```
-  brew install git
   brew install watchman
 ```
 **4. Install node**
@@ -60,3 +59,4 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 ## Expo Client Mobile Application
 **iPhone -** *https://itunes.apple.com/us/app/expo-client/id982107779?mt=8* <br/>
 **Android -** *https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en*
+# Spotify-Playlist-ReactNative-GraphQL
