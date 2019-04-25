@@ -15,11 +15,6 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 ```
   npm install -g expo-cli (or) sudo npm install expo-cli --global --unsafe-perm
 ```  
-**4. Install Apollo Boost, React Apollo & GraphQL using Node.js Command Prompt**
-```
-  npm install --save apollo-boost react-apollo graphql-tag graphql
-```
-
 
 ## Mac
 **1. Install Xcode from App Store or update to the latest version if already installed** (https://itunes.apple.com/ae/app/xcode/id497799835?mt=12)
@@ -50,11 +45,6 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 ```
   sudo npm install expo-cli --global --unsafe-perm
 ```
-**7. Install Apollo Boost, React Apollo & GraphQL**
-```
-  npm install --save apollo-boost react-apollo graphql-tag graphql
-```
-
 
 
 ## Expo Client Mobile Application
