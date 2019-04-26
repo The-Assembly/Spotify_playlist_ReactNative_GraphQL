@@ -6,7 +6,7 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 ## Windows
 **1. Download Node.js** *(https://nodejs.org/en/)* **(LTS Version Recommended)  and Git**  *(https://git-scm.com/downloads)* <br/>
 
-**2. Open Node.js Command Prompt and type**
+**2. Open Node.js Command Prompt and type to display versions**
 ```
  node -v
  npm –v
