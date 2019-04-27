@@ -24,7 +24,7 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 ```
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-**3. Install Watchman**
+**3. Install Watchman & Yarn**
 ```
   brew install watchman
   brew install yarn
