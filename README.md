@@ -26,6 +26,7 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 **3. Install Watchman**
 ```
   brew install watchman
+  brew install yarn
 ```
 **4. Install node**
 ```
