@@ -39,12 +39,9 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
     node -v
     npm -v
  ```
-**5. Install React Native**
+**5. Install React Native & Expo Client**
 ```
   sudo npm install -g react-native-cli
-```
-**6. Install Expo Client**
-```
   sudo npm install expo-cli --global --unsafe-perm
 ```
 
