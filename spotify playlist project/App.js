@@ -7,7 +7,7 @@ import { Query } from 'react-apollo';
 import gql from 'graphql-tag';
 
 const client = new ApolloClient({
-  uri: 'https://pm5wl5l3r0.sse.codesandbox.io/',
+  uri: 'https://8xnr95j60l.sse.codesandbox.io/',
 })
 
 export default class App extends React.Component {
