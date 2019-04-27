@@ -11,8 +11,9 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
  node -v
  npm –v
 ``` 
-**3. Install Expo Client using Node.js Command Prompt** *(https://expo.io/)*
+**3. Install React Native & Expo Client using Node.js Command Prompt** *(https://expo.io/)*
 ```
+  npm install -g react-native-cli
   npm install expo-cli --global --unsafe-perm
 ```  
 
