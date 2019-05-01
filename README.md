@@ -1,9 +1,20 @@
-﻿# Spotify_playlist_ReactNative_GraphQL
+﻿# Code a playlist app with GraphQL ana React Native
 
-Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
+## Introduction to Today's Workshop
 
+Using Node.js to develop a program which will be deployed using Expo Client and will fetch data from a Sandbox Repository running a GraphQL database, finally developing this into a working application. <br/>
 
-## Windows
+![functional diagram](https://user-images.githubusercontent.com/32713072/57015916-4f833000-6c28-11e9-9b68-f290b13a98d1.png)
+
+## Node.js
+
+<p> Node.js is an <u> asynchronous </u> event-driven open-source, cross-platform run-time environment that executes JavaScript ode outside of a browser. Node.js, lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. <p/>
+
+**Npm** is a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js.
+
+## Installation Guide
+
+### Windows
 **1. Download Node.js** *(https://nodejs.org/en/)* **(LTS Version Recommended)  and Git**  *(https://git-scm.com/downloads)* <br/>
 
 **2. Open Node.js Command Prompt and type to display versions**
@@ -17,7 +28,7 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
   npm install expo-cli --global --unsafe-perm
 ```  
 
-## Mac
+### Mac
 **1. Install Xcode from App Store or update to the latest version if already installed** (https://itunes.apple.com/ae/app/xcode/id497799835?mt=12)
 
 **2. Open Terminal and Install Homebrew (https://brew.sh) using the following command**
@@ -45,12 +56,14 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
   sudo npm install expo-cli --global --unsafe-perm
 ```
 
+### Alternative (if Expo Client doesn't work)
+**Use (https://snack.expo.io/)**
 
-## Expo Client Mobile Application
+### Expo Client Mobile Application
 **iPhone -** *https://itunes.apple.com/us/app/expo-client/id982107779?mt=8* <br/>
 **Android -** *https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en*
 
-## Setting up the Project
+### Setting up the Project
 **1. Open Terminal/Command Prompt and go to the directory where you want to store the project**
 ```
  cd Desktop
@@ -88,5 +101,4 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 ```
 **9. Scan the QR Code on iPhone using Camera App and Android using Expo App (Connect the Computer and Mobile on the same network)**
 
-## Alternative (if Expo Client doesn't work)
-**Use (https://snack.expo.io/)**
+
