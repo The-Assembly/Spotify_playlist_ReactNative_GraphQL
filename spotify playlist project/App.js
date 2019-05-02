@@ -171,3 +171,14 @@ const styles = StyleSheet.create({
     fontSize: 15
   }
 });
+
+/*
+Notes :
+    - CodeSandbox is an online editor that helps you create web applications from prototype to deployment. It allows developers to simply go to a URL in their browser to start building apps.
+    - It makes it easier to share your code with a team or clien to review the code by just sharing the URL.
+    - It supports npm dependencies and multiple files/directories.
+    - Apollo Server is the best way to quickly build a production ready, self documenting API for graphQL charts using data from any source.
+      It is open source and works great as a stand alone server.
+      Front end and back end developers can fetch data easily.
+    - You can see how simple graphQL makes data queries look.
+*/
