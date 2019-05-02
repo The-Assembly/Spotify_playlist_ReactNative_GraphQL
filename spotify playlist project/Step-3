@@ -132,3 +132,9 @@ const styles = StyleSheet.create({
     fontSize: 15
   }
 });
+
+/*
+Notes :
+    - Flatlist : It is an easy way to make an efficient list of scrolling data. We no longer have to format the data, we can just pass it in an array of data and get to rendering right away.
+    - It has 2 primary props : data and renderItem(). The first is an array of data used to create the list, Second is the function that will take an individual element of the data array and render  component for it.
+*/    
