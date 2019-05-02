@@ -28,3 +28,8 @@ const styles = StyleSheet.create({
     backgroundColor: '#121212'
   }
 });
+
+/*
+Notes :
+- Render() is the most important function in React as it tells your target i.e, Native what to display on the screen.
+*/
